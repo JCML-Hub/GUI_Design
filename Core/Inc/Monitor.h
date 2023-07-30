@@ -12,6 +12,6 @@
 
 
 void SETUP(void);//初始化
-void LOOP(void);//循环体
+void LOOP(void);//循环体，将循环体放在while即可
 
 #endif //GUI_DESIGN_MONITOR_H
